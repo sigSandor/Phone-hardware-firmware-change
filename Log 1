@@ -4,6 +4,11 @@ I coincidentally forgot the password, and now the Nokia is going to be a test du
 
 Below is the tear down of the Nokia to get a better look at what internal components are inside, such as speakers, camera modules, and other ICs. 
 
-My next log will be an update 
-
-Pics|
+following these sources of information,
+https://www.youtube.com/watch?v=_FSM_10JXsM&t=195s
+https://www.youtube.com/watch?v=-AYmTMILsM8
+https://embeddedbits.org/2020-02-20-extracting-firmware-from-devices-using-jtag/
+http://dangerousprototypes.com/docs/Bus_Pirate
+http://dangerousprototypes.com/docs/Bus_Blaster
+https://openocd.org/
+https://learn.sparkfun.com/tutorials/arm-programming/all
