@@ -15,5 +15,5 @@ Goal: My main goal for these devices is to understand each IC and its placement 
 
 Mission: successfully explain how a mobile device works and flash a new firmware.
 
-Why: I want to become more familiar with PCB design and best PCB design practices. 
+Why: I want to become more familiar with PCB design and best PCB design practices. Furthermore, I want to be able to reprogram chips, dump EEPROM, and extract data directly from the chips.
 
